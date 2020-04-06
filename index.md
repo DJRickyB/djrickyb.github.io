@@ -8,14 +8,14 @@ We were thinking of ways to raise money during the COVID-19 crisis and thought t
 * Expect a GCal invite from me for the sign up with instructions.  If multiple players will play from the same location, plan on joining the meeting from one central device, and playing on separate phones/tablets.
 
 ### Sign Up
-https://www.signupgenius.com/go/5080A4EA5A62DABF85-play
+[SignUpGenius](https://www.signupgenius.com/go/5080A4EA5A62DABF85-play)
 
 ### Resources
-https://jackboxgames.com/drawful-two/
+[Drawful 2 Homepage](https://jackboxgames.com/drawful-two/)
 
-https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/
+[Blog on playing Jackbox games remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/)
 
-https://www.youtube.com/watch?v=a7O3zVAC09M
+[Polygon video showing Drawful 2 being played](https://www.youtube.com/watch?v=a7O3zVAC09M)
 
 ### FAQs
 > Do I need to buy the game?
