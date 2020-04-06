@@ -18,6 +18,10 @@ We were thinking of ways to raise money during the COVID-19 crisis and thought t
 [Polygon video showing Drawful 2 being played](https://www.youtube.com/watch?v=a7O3zVAC09M)
 
 ### FAQs
+> What if I can't donate at this time?
+
+Sign up anyway!  If we run out of slots I'll add more.
+
 > Do I need to buy the game?
 
 No.  No purchase is necessary, just the donation to the designated charity
