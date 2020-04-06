@@ -20,7 +20,7 @@ We were thinking of ways to raise money during the COVID-19 crisis and thought t
 ### FAQs
 > What if I can't donate at this time?
 
-Sign up anyway! We shouldn't be gatekeeping socialization opportunities. If we run out of slots I'll add more.
+Sign up anyway! We shouldn't be gatekeeping socialization opportunities. If we run out of slots I'll add more dates.
 
 > Do I need to buy the game?
 
