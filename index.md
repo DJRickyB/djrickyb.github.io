@@ -9,7 +9,7 @@ We were thinking of ways to raise money during the COVID-19 crisis and thought t
 
 ### The Game
 It's hard to put into words.
-[alt text](https://cdn.mos.cms.futurecdn.net/tD7yApV35Jc8CaNKLNag2B-1200-80.jpg "Drawful 2")
+![alt text](https://cdn.mos.cms.futurecdn.net/tD7yApV35Jc8CaNKLNag2B-1200-80.jpg "Drawful 2")
 Basically a cross between Balderdash and Pictionary, or Telestrations and Apples to Apples.  Check out the video in Resources to see it in action
 
 ### Sign Up
