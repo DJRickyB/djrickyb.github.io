@@ -20,7 +20,11 @@ Basically a cross between Balderdash and Pictionary, or Telestrations and Apples
 
 [Blog on playing Jackbox games remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/)
 
-[Polygon video showing Drawful 2 being played](https://www.youtube.com/watch?v=a7O3zVAC09M)
+**Video**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=a7O3zVAC09M
+" target="_blank"><img src="http://img.youtube.com/vi/a7O3zVAC09M/0.jpg" 
+alt="Polygon video showing Drawful 2 being played" width="240" height="180" border="10" /></a>
 
 ### FAQs
 > What if I can't donate at this time?
