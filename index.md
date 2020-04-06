@@ -1,11 +1,16 @@
 # April Play For Charity
 
-### Overview
+### Background
 Hi!  This is Rick Boyd.  I learned of this game Drawful 2 from a co-worker who pointed out it was free, and very easy to play remotely with a group of friends.  My wife Lauren and I gave it a shot with 4 of our friends from the neighborhood using a Google Hangouts call and our phones and had an absolute blast, playing for 2 hours and only stopping because we were too tired to go on.
 We were thinking of ways to raise money during the COVID-19 crisis and thought this would be potentially the most fun way!  Here's how it will work:
 * Check the SignUpGenius link below to find a timeslot
 * Donate to the given charity via the provided bit.ly link (provided for convenience, we're not doing referrals or anything).  A suggested minimum of $10.
 * Expect a GCal invite from me for the sign up with instructions.  If multiple players will play from the same location, plan on joining the meeting from one central device, and playing on separate phones/tablets.
+
+### The Game
+It's hard to put into words.
+[alt text](https://cdn.mos.cms.futurecdn.net/tD7yApV35Jc8CaNKLNag2B-1200-80.jpg "Drawful 2")
+Basically a cross between Balderdash and Pictionary, or Telestrations and Apples to Apples.  Check out the video in Resources to see it in action
 
 ### Sign Up
 [SignUpGenius](https://www.signupgenius.com/go/5080A4EA5A62DABF85-play)
